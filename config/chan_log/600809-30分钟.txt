@@ -1,0 +1,61 @@
+combine k line: 2021-01-04 02:29:00
+combine k line: 2021-01-04 02:59:00
+[[1925.145, 1921.807, datetime.datetime(2021, 1, 4, 5, 59), 'up', 7]]
+fx_list: 
+[1925.145, 1921.807, datetime.datetime(2021, 1, 4, 5, 59), 'up', 7]
+combine k line: 2021-01-04 07:59:00
+fx_list: 
+[1921.858, 1918.984, datetime.datetime(2021, 1, 4, 7, 59), 'down', 10]
+combine k line: 2021-01-04 08:59:00
+fx_list: 
+[1921.858, 1918.984, datetime.datetime(2021, 1, 4, 7, 59), 'down', 10]
+fx_list: 
+[1925.475, 1922.635, datetime.datetime(2021, 1, 4, 8, 59), 'up', 11]
+fx_list: 
+[1924.4679999999998, 1922.318, datetime.datetime(2021, 1, 4, 9, 29), 'down', 12]
+combine k line: 2021-01-04 10:59:00
+fx_list: 
+[1935.085, 1931.158, datetime.datetime(2021, 1, 4, 10, 59), 'up', 14]
+combine k line: 2021-01-04 11:59:00
+fx_list: 
+[1935.085, 1931.158, datetime.datetime(2021, 1, 4, 10, 59), 'up', 14]
+fx_list: 
+[1932.558, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 16]
+combine k line: 2021-01-04 13:59:00
+fx_list: 
+[1936.435, 1933.305, datetime.datetime(2021, 1, 4, 13, 59), 'up', 18]
+combine k line: 2021-01-04 15:29:00
+fx_list: 
+[1934.2179999999998, 1929.648, datetime.datetime(2021, 1, 4, 15, 29), 'down', 20]
+combine k line: 2021-01-04 16:29:00
+fx_list: 
+[1934.2179999999998, 1929.648, datetime.datetime(2021, 1, 4, 15, 29), 'down', 20]
+combine k line: 2021-01-04 16:59:00
+fx_list: 
+[1934.2179999999998, 1929.648, datetime.datetime(2021, 1, 4, 15, 29), 'down', 20]
+combine k line: 2021-01-04 17:29:00
+fx_list: 
+[1934.2179999999998, 1929.648, datetime.datetime(2021, 1, 4, 15, 29), 'down', 20]
+fx_list: 
+[1944.348, 1937.2479999999998, datetime.datetime(2021, 1, 4, 17, 29), 'up', 21]
+fx_list: 
+[1943.5179999999998, 1934.065, datetime.datetime(2021, 1, 4, 17, 59), 'down', 22]
+combine k line: 2021-01-04 18:59:00
+fx_list: 
+[1943.5179999999998, 1934.065, datetime.datetime(2021, 1, 4, 17, 59), 'down', 22]
+fx_list: 
+[1943.555, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 59), 'up', 23]
+combine k line: 2021-01-04 19:59:00
+fx_list: 
+[1943.555, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 59), 'up', 23]
+fx_list: 
+[1937.838, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 59), 'down', 24]
+combine k line: 2021-01-04 21:29:00
+fx_list: 
+[1943.635, 1940.398, datetime.datetime(2021, 1, 4, 21, 29), 'up', 26]
+fx_list: 
+[1942.5179999999998, 1939.6979999999999, datetime.datetime(2021, 1, 4, 21, 59), 'down', 27]
+combine k line: 2021-01-04 23:29:00
+combine k line: 2021-01-04 23:59:00
+combine k line: 2021-01-04 02:29:00
+combine k line: 2021-01-04 02:29:00
