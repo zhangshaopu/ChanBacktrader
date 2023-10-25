@@ -76,19 +76,35 @@ class TestStrategy(bt.Strategy):
         else:
             if self.datas[0].close[0] < self.ma[0]:
                 self.order = self.sell(size=200)
+
 """
+
+
 
 class ChanStrategy(bt.Strategy): 
     def __init__(self):
         self.order = None
-        setting = {'include': True, 'interval': Interval.MINUTE, 'include_feature': False, 'qjt': True, 'gz': True, 'build_pivot': False, 'time_interval': 10}
+        setting = {'include': True, 'interval': Interval.MINUTE, 'include_feature': True, 'qjt': True, 'gz': True, 'build_pivot': False, 'time_interval': 10}
         self.chan = Chan_Strategy(engine = 'CHANTU"',strategy_name = 'chantu' , vt_symbol = '600809',setting = setting , BacktraderBuy = self.buy , BacktraderSell = self.sell)
         pass
-    def log(self, txt, dt=None): 
-        pass
+    def log(self, txt, dt=None):
+        """
+        输出日期
+        :param txt:
+        :param dt:
+        :return:
+        """
+        # dt = dt or self.datas[0].datetime.datetime(0) 
+        # print('%s , %s' % (dt.isoformat(), txt))
+
+        ''' Logging function fot this strategy'''
+        dt = dt or self.data.datetime[0]
+        if isinstance(dt, float):
+            dt = bt.num2date(dt)
+        print('%s, %s' % (dt.isoformat(), txt))
+
     def next(self):
         # bar = BarData(datetime=row[0], high_price=row[2], low_price=row[3], close_price=row[4])
-        current_bar = self.datas[0].lines
         bar = BarData(
             symbol="XAUUSD",
             exchange=Exchange.SSE,
@@ -101,10 +117,47 @@ class ChanStrategy(bt.Strategy):
             # volume=row["volume"],
             # open_interest=row.get("open_interest", 0)
         )
-        self.order = self.chan.on_bar(bar)
-        if not self.order : 
-            print(self.order)
-        pass  
+        self.order = self.chan.on_bar(bar) # bar 是1min级别数据
+        # if self.order is not None :
+        #     print(self.order)
+        pass 
+
+    def notify_order(self, order):
+ 
+        if order.status == order.Submitted:
+            # Buy/Sell order submitted/accepted to/by broker - Nothing to do
+            self.log('ORDER SUBMITTED', dt=order.created.dt)
+            self.order = order
+            return
+ 
+        if order.status == order.Accepted:
+            self.log('ORDER ACCEPTED', dt=order.created.dt)
+            self.order = order
+            return
+ 
+        if order.status in [order.Expired]:
+            self.log('BUY EXPIRED')
+ 
+        elif order.status in [order.Completed]:
+            if order.isbuy():
+                self.log(
+                    'BUY EXECUTED, Price: %.2f, Cost: %.2f, Comm %.2f' %
+                    (order.executed.price,
+                     order.executed.value,
+                     order.executed.comm))
+                self.log(f'BUY DATA INFO HIGH:{self.data.high[0]};'
+                         f'CLOSE:{self.data.close[0]}'
+                         f'')
+ 
+            else:  # Sell
+                self.log('SELL EXECUTED, Price: %.2f, Cost: %.2f, Comm %.2f' %
+                         (order.executed.price,
+                          order.executed.value,
+                          order.executed.comm))
+ 
+        # Sentinel to None: new orders allowed
+        self.order = None
+     
     
 
 def runstart():
@@ -133,12 +186,14 @@ def runstart():
     
     cerebro.addstrategy(ChanStrategy)
     cerebro.broker.setcash(100000.0) 
+    #设置手续费
+    cerebro.broker.setcommission(0.0002)
     # 引擎运行前打印期出资金  
-    # print('组合期初资金: %.2f' % cerebro.broker.getvalue()) 
+    print('组合期初资金: %.2f' % cerebro.broker.getvalue()) 
     cerebro.run() 
     cerebro.plot(style='bar')
     # 引擎运行后打期末资金  
-    # print('组合期末资金: %.2f' % cerebro.broker.getvalue())
+    print('组合期末资金: %.2f' % cerebro.broker.getvalue())
 
 if __name__ == '__main__':
     runstart()

@@ -412,3 +412,1289 @@ combine k line: 2021-01-04 02:19:00
 fx_list: 
 [1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
 combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 02:44:00
+combine k line: 2021-01-04 02:49:00
+combine k line: 2021-01-04 03:14:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+combine k line: 2021-01-04 03:24:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+combine k line: 2021-01-04 03:34:00
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+fx_list: 
+[1915.295, 1914.204, datetime.datetime(2021, 1, 4, 3, 34), 'up', 19]
+fx_list: 
+[1915.285, 1913.505, datetime.datetime(2021, 1, 4, 3, 39), 'down', 20]
+fx_list: 
+[1918.655, 1917.0479999999998, datetime.datetime(2021, 1, 4, 3, 54), 'up', 23]
+fx_list: 
+[1916.994, 1915.394, datetime.datetime(2021, 1, 4, 4, 4), 'down', 25]
+fx_list: 
+[1919.058, 1918.165, datetime.datetime(2021, 1, 4, 4, 19), 'up', 28]
+fx_list: 
+[1918.675, 1918.0479999999998, datetime.datetime(2021, 1, 4, 4, 29), 'down', 30]
+fx_list: 
+[1918.848, 1918.1879999999999, datetime.datetime(2021, 1, 4, 4, 34), 'up', 31]
+fx_list: 
+[1918.7079999999999, 1917.9279999999999, datetime.datetime(2021, 1, 4, 4, 39), 'down', 32]
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+combine k line: 2021-01-04 05:14:00
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+fx_list: 
+[1921.415, 1920.675, datetime.datetime(2021, 1, 4, 5, 14), 'down', 38]
+combine k line: 2021-01-04 05:34:00
+fx_list: 
+[1925.145, 1923.885, datetime.datetime(2021, 1, 4, 5, 44), 'up', 43]
+fx_list: 
+[1923.0079999999998, 1921.807, datetime.datetime(2021, 1, 4, 5, 54), 'down', 45]
+fx_list: 
+[1923.634, 1922.99, datetime.datetime(2021, 1, 4, 6, 4), 'up', 47]
+stroke_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.465, 1922.635, datetime.datetime(2021, 1, 4, 6, 14), 'up', 49]
+combine k line: 2021-01-04 06:34:00
+combine k line: 2021-01-04 06:39:00
+combine k line: 2021-01-04 06:44:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+combine k line: 2021-01-04 06:54:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+combine k line: 2021-01-04 07:09:00
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+fx_list: 
+[1920.2279999999998, 1918.984, datetime.datetime(2021, 1, 4, 7, 24), 'down', 58]
+combine k line: 2021-01-04 07:39:00
+fx_list: 
+[1921.858, 1920.5379999999998, datetime.datetime(2021, 1, 4, 7, 39), 'up', 60]
+fx_list: 
+[1920.155, 1918.9879999999998, datetime.datetime(2021, 1, 4, 7, 49), 'down', 62]
+combine k line: 2021-01-04 08:09:00
+combine k line: 2021-01-04 08:29:00
+combine k line: 2021-01-04 08:34:00
+combine k line: 2021-01-04 08:39:00
+stroke_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+fx_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+combine k line: 2021-01-04 08:54:00
+combine k line: 2021-01-04 09:04:00
+fx_list: 
+[1923.455, 1922.318, datetime.datetime(2021, 1, 4, 9, 4), 'down', 71]
+combine k line: 2021-01-04 09:19:00
+fx_list: 
+[1924.4679999999998, 1923.445, datetime.datetime(2021, 1, 4, 9, 19), 'up', 73]
+stroke_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:34:00
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:44:00
+fx_list: 
+[1925.4279999999999, 1924.254, datetime.datetime(2021, 1, 4, 9, 44), 'up', 76]
+combine k line: 2021-01-04 09:59:00
+fx_list: 
+[1923.7679999999998, 1922.858, datetime.datetime(2021, 1, 4, 9, 59), 'down', 78]
+combine k line: 2021-01-04 10:14:00
+combine k line: 2021-01-04 10:19:00
+stroke_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+fx_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+combine k line: 2021-01-04 10:44:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+combine k line: 2021-01-04 11:04:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+fx_list: 
+[1933.875, 1932.205, datetime.datetime(2021, 1, 4, 11, 9), 'up', 88]
+stroke_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]
+fx_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+combine k line: 2021-01-04 11:39:00
+fx_list: 
+[1933.0179999999998, 1932.358, datetime.datetime(2021, 1, 4, 11, 39), 'up', 93]
+fx_list: 
+[1931.985, 1930.815, datetime.datetime(2021, 1, 4, 11, 49), 'down', 95]
+stroke_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1931.838, 1930.5179999999998, datetime.datetime(2021, 1, 4, 12, 9), 'down', 99]
+fx_list: 
+[1932.558, 1930.955, datetime.datetime(2021, 1, 4, 12, 14), 'up', 100]
+stroke_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]:2021-01-04 11:59:00
+[]
+fx_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+combine k line: 2021-01-04 12:44:00
+combine k line: 2021-01-04 13:09:00
+stroke_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]
+fx_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+fx_list: 
+[1934.465, 1933.585, datetime.datetime(2021, 1, 4, 13, 14), 'down', 110]
+fx_list: 
+[1935.685, 1934.368, datetime.datetime(2021, 1, 4, 13, 19), 'up', 111]
+fx_list: 
+[1935.1879999999999, 1933.305, datetime.datetime(2021, 1, 4, 13, 24), 'down', 112]
+combine k line: 2021-01-04 13:44:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 13:54:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 14:09:00
+fx_list: 
+[1933.2079999999999, 1931.5179999999998, datetime.datetime(2021, 1, 4, 14, 9), 'down', 118]
+fx_list: 
+[1934.7679999999998, 1933.0910000000001, datetime.datetime(2021, 1, 4, 14, 14), 'up', 119]
+combine k line: 2021-01-04 14:24:00
+fx_list: 
+[1934.7679999999998, 1933.0910000000001, datetime.datetime(2021, 1, 4, 14, 14), 'up', 119]
+stroke_list: 
+[1934.365, 1932.9979999999998, datetime.datetime(2021, 1, 4, 14, 24), 'down', 120]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]:2021-01-04 13:44:00
+[]
+fx_list: 
+[1934.365, 1932.9979999999998, datetime.datetime(2021, 1, 4, 14, 24), 'down', 120]
+fx_list: 
+[1934.378, 1933.205, datetime.datetime(2021, 1, 4, 14, 29), 'up', 121]
+combine k line: 2021-01-04 14:54:00
+fx_list: 
+[1931.618, 1930.005, datetime.datetime(2021, 1, 4, 14, 54), 'down', 125]
+combine k line: 2021-01-04 15:04:00
+fx_list: 
+[1931.618, 1930.005, datetime.datetime(2021, 1, 4, 14, 54), 'down', 125]
+fx_list: 
+[1933.355, 1930.668, datetime.datetime(2021, 1, 4, 15, 4), 'up', 126]
+fx_list: 
+[1932.7679999999998, 1930.155, datetime.datetime(2021, 1, 4, 15, 9), 'down', 127]
+stroke_list: 
+[1938.32, 1935.408, datetime.datetime(2021, 1, 4, 15, 24), 'up', 130]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 14:54:00
+[]
+fx_list: 
+[1938.32, 1935.408, datetime.datetime(2021, 1, 4, 15, 24), 'up', 130]
+fx_list: 
+[1937.69, 1935.388, datetime.datetime(2021, 1, 4, 15, 29), 'down', 131]
+fx_list: 
+[1941.975, 1940.168, datetime.datetime(2021, 1, 4, 15, 39), 'up', 133]
+fx_list: 
+[1941.078, 1939.13, datetime.datetime(2021, 1, 4, 15, 49), 'down', 135]
+combine k line: 2021-01-04 15:59:00
+fx_list: 
+[1941.078, 1939.13, datetime.datetime(2021, 1, 4, 15, 49), 'down', 135]
+fx_list: 
+[1941.253, 1939.5479999999998, datetime.datetime(2021, 1, 4, 15, 59), 'up', 136]
+fx_list: 
+[1940.9779999999998, 1938.4279999999999, datetime.datetime(2021, 1, 4, 16, 4), 'down', 137]
+combine k line: 2021-01-04 16:14:00
+fx_list: 
+[1940.9779999999998, 1938.4279999999999, datetime.datetime(2021, 1, 4, 16, 4), 'down', 137]
+fx_list: 
+[1941.088, 1939.615, datetime.datetime(2021, 1, 4, 16, 14), 'up', 138]
+fx_list: 
+[1940.7679999999998, 1937.2479999999998, datetime.datetime(2021, 1, 4, 16, 19), 'down', 139]
+combine k line: 2021-01-04 16:29:00
+fx_list: 
+[1940.7679999999998, 1937.2479999999998, datetime.datetime(2021, 1, 4, 16, 19), 'down', 139]
+fx_list: 
+[1941.57, 1939.088, datetime.datetime(2021, 1, 4, 16, 29), 'up', 140]
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:49:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:54:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:59:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+fx_list: 
+[1944.348, 1941.315, datetime.datetime(2021, 1, 4, 17, 4), 'up', 144]
+fx_list: 
+[1934.2279999999998, 1929.2279999999998, datetime.datetime(2021, 1, 4, 17, 19), 'down', 147]
+combine k line: 2021-01-04 17:34:00
+combine k line: 2021-01-04 17:39:00
+fx_list: 
+[1940.408, 1938.75, datetime.datetime(2021, 1, 4, 17, 44), 'up', 150]
+stroke_list: 
+[1940.065, 1938.098, datetime.datetime(2021, 1, 4, 17, 49), 'down', 151]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 17:04:00
+[]
+fx_list: 
+[1940.065, 1938.098, datetime.datetime(2021, 1, 4, 17, 49), 'down', 151]
+combine k line: 2021-01-04 18:04:00
+fx_list: 
+[1943.555, 1941.965, datetime.datetime(2021, 1, 4, 18, 4), 'up', 153]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 17:04:00
+[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]
+B3-pivot
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], [datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]
+[datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]
+buy:
+[datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]
+fx_list: 
+[1940.568, 1937.1979999999999, datetime.datetime(2021, 1, 4, 18, 14), 'down', 155]
+fx_list: 
+[1943.245, 1940.115, datetime.datetime(2021, 1, 4, 18, 24), 'up', 157]
+fx_list: 
+[1941.638, 1939.098, datetime.datetime(2021, 1, 4, 18, 29), 'down', 158]
+fx_list: 
+[1941.9679999999998, 1939.925, datetime.datetime(2021, 1, 4, 18, 34), 'up', 159]
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+combine k line: 2021-01-04 18:54:00
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+combine k line: 2021-01-04 18:59:00
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+fx_list: 
+[1941.93, 1940.305, datetime.datetime(2021, 1, 4, 18, 59), 'up', 162]
+combine k line: 2021-01-04 19:09:00
+fx_list: 
+[1941.93, 1940.305, datetime.datetime(2021, 1, 4, 18, 59), 'up', 162]
+fx_list: 
+[1935.83, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 24), 'down', 166]
+combine k line: 2021-01-04 19:34:00
+fx_list: 
+[1935.83, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 24), 'down', 166]
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+combine k line: 2021-01-04 19:44:00
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 02:44:00
+combine k line: 2021-01-04 02:49:00
+combine k line: 2021-01-04 03:14:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+combine k line: 2021-01-04 03:24:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+combine k line: 2021-01-04 03:34:00
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+fx_list: 
+[1915.295, 1914.204, datetime.datetime(2021, 1, 4, 3, 34), 'up', 19]
+fx_list: 
+[1915.285, 1913.505, datetime.datetime(2021, 1, 4, 3, 39), 'down', 20]
+fx_list: 
+[1918.655, 1917.0479999999998, datetime.datetime(2021, 1, 4, 3, 54), 'up', 23]
+fx_list: 
+[1916.994, 1915.394, datetime.datetime(2021, 1, 4, 4, 4), 'down', 25]
+fx_list: 
+[1919.058, 1918.165, datetime.datetime(2021, 1, 4, 4, 19), 'up', 28]
+fx_list: 
+[1918.675, 1918.0479999999998, datetime.datetime(2021, 1, 4, 4, 29), 'down', 30]
+fx_list: 
+[1918.848, 1918.1879999999999, datetime.datetime(2021, 1, 4, 4, 34), 'up', 31]
+fx_list: 
+[1918.7079999999999, 1917.9279999999999, datetime.datetime(2021, 1, 4, 4, 39), 'down', 32]
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+combine k line: 2021-01-04 05:14:00
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+fx_list: 
+[1921.415, 1920.675, datetime.datetime(2021, 1, 4, 5, 14), 'down', 38]
+combine k line: 2021-01-04 05:34:00
+fx_list: 
+[1925.145, 1923.885, datetime.datetime(2021, 1, 4, 5, 44), 'up', 43]
+fx_list: 
+[1923.0079999999998, 1921.807, datetime.datetime(2021, 1, 4, 5, 54), 'down', 45]
+fx_list: 
+[1923.634, 1922.99, datetime.datetime(2021, 1, 4, 6, 4), 'up', 47]
+stroke_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.465, 1922.635, datetime.datetime(2021, 1, 4, 6, 14), 'up', 49]
+combine k line: 2021-01-04 06:34:00
+combine k line: 2021-01-04 06:39:00
+combine k line: 2021-01-04 06:44:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+combine k line: 2021-01-04 06:54:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+combine k line: 2021-01-04 07:09:00
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+fx_list: 
+[1920.2279999999998, 1918.984, datetime.datetime(2021, 1, 4, 7, 24), 'down', 58]
+combine k line: 2021-01-04 07:39:00
+fx_list: 
+[1921.858, 1920.5379999999998, datetime.datetime(2021, 1, 4, 7, 39), 'up', 60]
+fx_list: 
+[1920.155, 1918.9879999999998, datetime.datetime(2021, 1, 4, 7, 49), 'down', 62]
+combine k line: 2021-01-04 08:09:00
+combine k line: 2021-01-04 08:29:00
+combine k line: 2021-01-04 08:34:00
+combine k line: 2021-01-04 08:39:00
+stroke_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+fx_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+combine k line: 2021-01-04 08:54:00
+combine k line: 2021-01-04 09:04:00
+fx_list: 
+[1923.455, 1922.318, datetime.datetime(2021, 1, 4, 9, 4), 'down', 71]
+combine k line: 2021-01-04 09:19:00
+fx_list: 
+[1924.4679999999998, 1923.445, datetime.datetime(2021, 1, 4, 9, 19), 'up', 73]
+stroke_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:34:00
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:44:00
+fx_list: 
+[1925.4279999999999, 1924.254, datetime.datetime(2021, 1, 4, 9, 44), 'up', 76]
+combine k line: 2021-01-04 09:59:00
+fx_list: 
+[1923.7679999999998, 1922.858, datetime.datetime(2021, 1, 4, 9, 59), 'down', 78]
+combine k line: 2021-01-04 10:14:00
+combine k line: 2021-01-04 10:19:00
+stroke_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+fx_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+combine k line: 2021-01-04 10:44:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+combine k line: 2021-01-04 11:04:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+fx_list: 
+[1933.875, 1932.205, datetime.datetime(2021, 1, 4, 11, 9), 'up', 88]
+stroke_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]
+fx_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+combine k line: 2021-01-04 11:39:00
+fx_list: 
+[1933.0179999999998, 1932.358, datetime.datetime(2021, 1, 4, 11, 39), 'up', 93]
+fx_list: 
+[1931.985, 1930.815, datetime.datetime(2021, 1, 4, 11, 49), 'down', 95]
+stroke_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1931.838, 1930.5179999999998, datetime.datetime(2021, 1, 4, 12, 9), 'down', 99]
+fx_list: 
+[1932.558, 1930.955, datetime.datetime(2021, 1, 4, 12, 14), 'up', 100]
+stroke_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]:2021-01-04 11:59:00
+[]
+fx_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+combine k line: 2021-01-04 12:44:00
+combine k line: 2021-01-04 13:09:00
+stroke_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]
+fx_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+fx_list: 
+[1934.465, 1933.585, datetime.datetime(2021, 1, 4, 13, 14), 'down', 110]
+fx_list: 
+[1935.685, 1934.368, datetime.datetime(2021, 1, 4, 13, 19), 'up', 111]
+fx_list: 
+[1935.1879999999999, 1933.305, datetime.datetime(2021, 1, 4, 13, 24), 'down', 112]
+combine k line: 2021-01-04 13:44:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 13:54:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 14:09:00
+fx_list: 
+[1933.2079999999999, 1931.5179999999998, datetime.datetime(2021, 1, 4, 14, 9), 'down', 118]
+fx_list: 
+[1934.7679999999998, 1933.0910000000001, datetime.datetime(2021, 1, 4, 14, 14), 'up', 119]
+combine k line: 2021-01-04 14:24:00
+fx_list: 
+[1934.7679999999998, 1933.0910000000001, datetime.datetime(2021, 1, 4, 14, 14), 'up', 119]
+stroke_list: 
+[1934.365, 1932.9979999999998, datetime.datetime(2021, 1, 4, 14, 24), 'down', 120]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]:2021-01-04 13:44:00
+[]
+fx_list: 
+[1934.365, 1932.9979999999998, datetime.datetime(2021, 1, 4, 14, 24), 'down', 120]
+fx_list: 
+[1934.378, 1933.205, datetime.datetime(2021, 1, 4, 14, 29), 'up', 121]
+combine k line: 2021-01-04 14:54:00
+fx_list: 
+[1931.618, 1930.005, datetime.datetime(2021, 1, 4, 14, 54), 'down', 125]
+combine k line: 2021-01-04 15:04:00
+fx_list: 
+[1931.618, 1930.005, datetime.datetime(2021, 1, 4, 14, 54), 'down', 125]
+fx_list: 
+[1933.355, 1930.668, datetime.datetime(2021, 1, 4, 15, 4), 'up', 126]
+fx_list: 
+[1932.7679999999998, 1930.155, datetime.datetime(2021, 1, 4, 15, 9), 'down', 127]
+stroke_list: 
+[1938.32, 1935.408, datetime.datetime(2021, 1, 4, 15, 24), 'up', 130]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 14:54:00
+[]
+fx_list: 
+[1938.32, 1935.408, datetime.datetime(2021, 1, 4, 15, 24), 'up', 130]
+fx_list: 
+[1937.69, 1935.388, datetime.datetime(2021, 1, 4, 15, 29), 'down', 131]
+fx_list: 
+[1941.975, 1940.168, datetime.datetime(2021, 1, 4, 15, 39), 'up', 133]
+fx_list: 
+[1941.078, 1939.13, datetime.datetime(2021, 1, 4, 15, 49), 'down', 135]
+combine k line: 2021-01-04 15:59:00
+fx_list: 
+[1941.078, 1939.13, datetime.datetime(2021, 1, 4, 15, 49), 'down', 135]
+fx_list: 
+[1941.253, 1939.5479999999998, datetime.datetime(2021, 1, 4, 15, 59), 'up', 136]
+fx_list: 
+[1940.9779999999998, 1938.4279999999999, datetime.datetime(2021, 1, 4, 16, 4), 'down', 137]
+combine k line: 2021-01-04 16:14:00
+fx_list: 
+[1940.9779999999998, 1938.4279999999999, datetime.datetime(2021, 1, 4, 16, 4), 'down', 137]
+fx_list: 
+[1941.088, 1939.615, datetime.datetime(2021, 1, 4, 16, 14), 'up', 138]
+fx_list: 
+[1940.7679999999998, 1937.2479999999998, datetime.datetime(2021, 1, 4, 16, 19), 'down', 139]
+combine k line: 2021-01-04 16:29:00
+fx_list: 
+[1940.7679999999998, 1937.2479999999998, datetime.datetime(2021, 1, 4, 16, 19), 'down', 139]
+fx_list: 
+[1941.57, 1939.088, datetime.datetime(2021, 1, 4, 16, 29), 'up', 140]
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:49:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:54:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:59:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+fx_list: 
+[1944.348, 1941.315, datetime.datetime(2021, 1, 4, 17, 4), 'up', 144]
+fx_list: 
+[1934.2279999999998, 1929.2279999999998, datetime.datetime(2021, 1, 4, 17, 19), 'down', 147]
+combine k line: 2021-01-04 17:34:00
+combine k line: 2021-01-04 17:39:00
+fx_list: 
+[1940.408, 1938.75, datetime.datetime(2021, 1, 4, 17, 44), 'up', 150]
+stroke_list: 
+[1940.065, 1938.098, datetime.datetime(2021, 1, 4, 17, 49), 'down', 151]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 17:04:00
+[]
+fx_list: 
+[1940.065, 1938.098, datetime.datetime(2021, 1, 4, 17, 49), 'down', 151]
+combine k line: 2021-01-04 18:04:00
+fx_list: 
+[1943.555, 1941.965, datetime.datetime(2021, 1, 4, 18, 4), 'up', 153]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 17:04:00
+[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]
+B3-pivot
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], [datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]
+[datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]
+buy:
+[datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]
+fx_list: 
+[1940.568, 1937.1979999999999, datetime.datetime(2021, 1, 4, 18, 14), 'down', 155]
+fx_list: 
+[1943.245, 1940.115, datetime.datetime(2021, 1, 4, 18, 24), 'up', 157]
+fx_list: 
+[1941.638, 1939.098, datetime.datetime(2021, 1, 4, 18, 29), 'down', 158]
+fx_list: 
+[1941.9679999999998, 1939.925, datetime.datetime(2021, 1, 4, 18, 34), 'up', 159]
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+combine k line: 2021-01-04 18:54:00
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+combine k line: 2021-01-04 18:59:00
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+fx_list: 
+[1941.93, 1940.305, datetime.datetime(2021, 1, 4, 18, 59), 'up', 162]
+combine k line: 2021-01-04 19:09:00
+fx_list: 
+[1941.93, 1940.305, datetime.datetime(2021, 1, 4, 18, 59), 'up', 162]
+fx_list: 
+[1935.83, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 24), 'down', 166]
+combine k line: 2021-01-04 19:34:00
+fx_list: 
+[1935.83, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 24), 'down', 166]
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+combine k line: 2021-01-04 19:44:00
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+combine k line: 2021-01-04 19:49:00
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+fx_list: 
+[1936.308, 1933.2279999999998, datetime.datetime(2021, 1, 4, 19, 49), 'down', 168]
+combine k line: 2021-01-04 20:04:00
+stroke_list: 
+[1942.65, 1940.985, datetime.datetime(2021, 1, 4, 20, 14), 'up', 172]
+fx_list: 
+[1942.65, 1940.985, datetime.datetime(2021, 1, 4, 20, 14), 'up', 172]
+fx_list: 
+[1942.0379999999998, 1940.54, datetime.datetime(2021, 1, 4, 20, 24), 'down', 174]
+fx_list: 
+[1942.665, 1941.21, datetime.datetime(2021, 1, 4, 20, 29), 'up', 175]
+combine k line: 2021-01-04 20:39:00
+fx_list: 
+[1942.665, 1941.21, datetime.datetime(2021, 1, 4, 20, 29), 'up', 175]
+fx_list: 
+[1941.955, 1940.398, datetime.datetime(2021, 1, 4, 20, 39), 'down', 176]
+combine k line: 2021-01-04 21:04:00
+fx_list: 
+[1943.635, 1942.315, datetime.datetime(2021, 1, 4, 21, 4), 'up', 180]
+combine k line: 2021-01-04 21:14:00
+fx_list: 
+[1943.635, 1942.315, datetime.datetime(2021, 1, 4, 21, 4), 'up', 180]
+fx_list: 
+[1940.945, 1939.1979999999999, datetime.datetime(2021, 1, 4, 21, 14), 'down', 181]
+fx_list: 
+[1941.618, 1940.4979999999998, datetime.datetime(2021, 1, 4, 21, 24), 'up', 183]
+combine k line: 2021-01-04 21:34:00
+fx_list: 
+[1941.618, 1940.4979999999998, datetime.datetime(2021, 1, 4, 21, 24), 'up', 183]
+stroke_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 21:04:00
+[]
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 21:44:00
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 21:49:00
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 21:54:00
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 22:04:00
+fx_list: 
+[1942.5179999999998, 1941.398, datetime.datetime(2021, 1, 4, 22, 4), 'up', 186]
+fx_list: 
+[1942.22, 1941.275, datetime.datetime(2021, 1, 4, 22, 9), 'down', 187]
+stroke_list: 
+[1942.61, 1941.2879999999998, datetime.datetime(2021, 1, 4, 22, 14), 'up', 188]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 14)]]]:2021-01-04 21:34:00
+[]
+fx_list: 
+[1942.61, 1941.2879999999998, datetime.datetime(2021, 1, 4, 22, 14), 'up', 188]
+fx_list: 
+[1941.665, 1940.82, datetime.datetime(2021, 1, 4, 22, 24), 'down', 190]
+combine k line: 2021-01-04 22:34:00
+fx_list: 
+[1941.665, 1940.82, datetime.datetime(2021, 1, 4, 22, 24), 'down', 190]
+combine k line: 2021-01-04 22:49:00
+combine k line: 2021-01-04 22:59:00
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 14)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 59)]]]:2021-01-04 21:34:00
+[]
+fx_list: 
+[1944.135, 1942.895, datetime.datetime(2021, 1, 4, 22, 59), 'up', 194]
+combine k line: 2021-01-04 23:19:00
+fx_list: 
+[1942.085, 1941.695, datetime.datetime(2021, 1, 4, 23, 19), 'down', 197]
+combine k line: 2021-01-04 23:44:00
+fx_list: 
+[1943.108, 1942.148, datetime.datetime(2021, 1, 4, 23, 44), 'up', 201]
+stroke_list: 
+[1942.7279999999998, 1942.0279999999998, datetime.datetime(2021, 1, 4, 23, 49), 'down', 202]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 14)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 59)]]]:2021-01-04 22:59:00
+[]
+fx_list: 
+[1942.7279999999998, 1942.0279999999998, datetime.datetime(2021, 1, 4, 23, 49), 'down', 202]
+combine k line: 2021-01-04 23:59:00
+fx_list: 
+[1942.7279999999998, 1942.0279999999998, datetime.datetime(2021, 1, 4, 23, 49), 'down', 202]
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 02:44:00
+combine k line: 2021-01-04 02:49:00
+combine k line: 2021-01-04 03:14:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+combine k line: 2021-01-04 03:24:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+combine k line: 2021-01-04 03:34:00
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+fx_list: 
+[1915.295, 1914.204, datetime.datetime(2021, 1, 4, 3, 34), 'up', 19]
+fx_list: 
+[1915.285, 1913.505, datetime.datetime(2021, 1, 4, 3, 39), 'down', 20]
+fx_list: 
+[1918.655, 1917.0479999999998, datetime.datetime(2021, 1, 4, 3, 54), 'up', 23]
+fx_list: 
+[1916.994, 1915.394, datetime.datetime(2021, 1, 4, 4, 4), 'down', 25]
+fx_list: 
+[1919.058, 1918.165, datetime.datetime(2021, 1, 4, 4, 19), 'up', 28]
+fx_list: 
+[1918.675, 1918.0479999999998, datetime.datetime(2021, 1, 4, 4, 29), 'down', 30]
+fx_list: 
+[1918.848, 1918.1879999999999, datetime.datetime(2021, 1, 4, 4, 34), 'up', 31]
+fx_list: 
+[1918.7079999999999, 1917.9279999999999, datetime.datetime(2021, 1, 4, 4, 39), 'down', 32]
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+combine k line: 2021-01-04 05:14:00
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+fx_list: 
+[1921.415, 1920.675, datetime.datetime(2021, 1, 4, 5, 14), 'down', 38]
+combine k line: 2021-01-04 05:34:00
+fx_list: 
+[1925.145, 1923.885, datetime.datetime(2021, 1, 4, 5, 44), 'up', 43]
+fx_list: 
+[1923.0079999999998, 1921.807, datetime.datetime(2021, 1, 4, 5, 54), 'down', 45]
+fx_list: 
+[1923.634, 1922.99, datetime.datetime(2021, 1, 4, 6, 4), 'up', 47]
+stroke_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.465, 1922.635, datetime.datetime(2021, 1, 4, 6, 14), 'up', 49]
+combine k line: 2021-01-04 06:34:00
+combine k line: 2021-01-04 06:39:00
+combine k line: 2021-01-04 06:44:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+combine k line: 2021-01-04 06:54:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+combine k line: 2021-01-04 07:09:00
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+fx_list: 
+[1920.2279999999998, 1918.984, datetime.datetime(2021, 1, 4, 7, 24), 'down', 58]
+combine k line: 2021-01-04 07:39:00
+fx_list: 
+[1921.858, 1920.5379999999998, datetime.datetime(2021, 1, 4, 7, 39), 'up', 60]
+fx_list: 
+[1920.155, 1918.9879999999998, datetime.datetime(2021, 1, 4, 7, 49), 'down', 62]
+combine k line: 2021-01-04 08:09:00
+combine k line: 2021-01-04 08:29:00
+combine k line: 2021-01-04 08:34:00
+combine k line: 2021-01-04 08:39:00
+stroke_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+fx_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+combine k line: 2021-01-04 08:54:00
+combine k line: 2021-01-04 09:04:00
+fx_list: 
+[1923.455, 1922.318, datetime.datetime(2021, 1, 4, 9, 4), 'down', 71]
+combine k line: 2021-01-04 09:19:00
+fx_list: 
+[1924.4679999999998, 1923.445, datetime.datetime(2021, 1, 4, 9, 19), 'up', 73]
+stroke_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:34:00
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:44:00
+fx_list: 
+[1925.4279999999999, 1924.254, datetime.datetime(2021, 1, 4, 9, 44), 'up', 76]
+combine k line: 2021-01-04 09:59:00
+fx_list: 
+[1923.7679999999998, 1922.858, datetime.datetime(2021, 1, 4, 9, 59), 'down', 78]
+combine k line: 2021-01-04 10:14:00
+combine k line: 2021-01-04 10:19:00
+stroke_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+fx_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+combine k line: 2021-01-04 10:44:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+combine k line: 2021-01-04 11:04:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+fx_list: 
+[1933.875, 1932.205, datetime.datetime(2021, 1, 4, 11, 9), 'up', 88]
+stroke_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]
+fx_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+combine k line: 2021-01-04 11:39:00
+fx_list: 
+[1933.0179999999998, 1932.358, datetime.datetime(2021, 1, 4, 11, 39), 'up', 93]
+fx_list: 
+[1931.985, 1930.815, datetime.datetime(2021, 1, 4, 11, 49), 'down', 95]
+stroke_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1931.838, 1930.5179999999998, datetime.datetime(2021, 1, 4, 12, 9), 'down', 99]
+fx_list: 
+[1932.558, 1930.955, datetime.datetime(2021, 1, 4, 12, 14), 'up', 100]
+stroke_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]:2021-01-04 11:59:00
+[]
+fx_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+combine k line: 2021-01-04 12:44:00
+combine k line: 2021-01-04 13:09:00
+stroke_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]
+fx_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+fx_list: 
+[1934.465, 1933.585, datetime.datetime(2021, 1, 4, 13, 14), 'down', 110]
+fx_list: 
+[1935.685, 1934.368, datetime.datetime(2021, 1, 4, 13, 19), 'up', 111]
+fx_list: 
+[1935.1879999999999, 1933.305, datetime.datetime(2021, 1, 4, 13, 24), 'down', 112]
+combine k line: 2021-01-04 13:44:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 13:54:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 14:09:00
+fx_list: 
+[1933.2079999999999, 1931.5179999999998, datetime.datetime(2021, 1, 4, 14, 9), 'down', 118]
+fx_list: 
+[1934.7679999999998, 1933.0910000000001, datetime.datetime(2021, 1, 4, 14, 14), 'up', 119]
+combine k line: 2021-01-04 14:24:00
+fx_list: 
+[1934.7679999999998, 1933.0910000000001, datetime.datetime(2021, 1, 4, 14, 14), 'up', 119]
+stroke_list: 
+[1934.365, 1932.9979999999998, datetime.datetime(2021, 1, 4, 14, 24), 'down', 120]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]:2021-01-04 13:44:00
+[]
+fx_list: 
+[1934.365, 1932.9979999999998, datetime.datetime(2021, 1, 4, 14, 24), 'down', 120]
+fx_list: 
+[1934.378, 1933.205, datetime.datetime(2021, 1, 4, 14, 29), 'up', 121]
+combine k line: 2021-01-04 14:54:00
+fx_list: 
+[1931.618, 1930.005, datetime.datetime(2021, 1, 4, 14, 54), 'down', 125]
+combine k line: 2021-01-04 15:04:00
+fx_list: 
+[1931.618, 1930.005, datetime.datetime(2021, 1, 4, 14, 54), 'down', 125]
+fx_list: 
+[1933.355, 1930.668, datetime.datetime(2021, 1, 4, 15, 4), 'up', 126]
+fx_list: 
+[1932.7679999999998, 1930.155, datetime.datetime(2021, 1, 4, 15, 9), 'down', 127]
+stroke_list: 
+[1938.32, 1935.408, datetime.datetime(2021, 1, 4, 15, 24), 'up', 130]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 14:54:00
+[]
+fx_list: 
+[1938.32, 1935.408, datetime.datetime(2021, 1, 4, 15, 24), 'up', 130]
+fx_list: 
+[1937.69, 1935.388, datetime.datetime(2021, 1, 4, 15, 29), 'down', 131]
+fx_list: 
+[1941.975, 1940.168, datetime.datetime(2021, 1, 4, 15, 39), 'up', 133]
+fx_list: 
+[1941.078, 1939.13, datetime.datetime(2021, 1, 4, 15, 49), 'down', 135]
+combine k line: 2021-01-04 15:59:00
+fx_list: 
+[1941.078, 1939.13, datetime.datetime(2021, 1, 4, 15, 49), 'down', 135]
+fx_list: 
+[1941.253, 1939.5479999999998, datetime.datetime(2021, 1, 4, 15, 59), 'up', 136]
+fx_list: 
+[1940.9779999999998, 1938.4279999999999, datetime.datetime(2021, 1, 4, 16, 4), 'down', 137]
+combine k line: 2021-01-04 16:14:00
+fx_list: 
+[1940.9779999999998, 1938.4279999999999, datetime.datetime(2021, 1, 4, 16, 4), 'down', 137]
+fx_list: 
+[1941.088, 1939.615, datetime.datetime(2021, 1, 4, 16, 14), 'up', 138]
+fx_list: 
+[1940.7679999999998, 1937.2479999999998, datetime.datetime(2021, 1, 4, 16, 19), 'down', 139]
+combine k line: 2021-01-04 16:29:00
+fx_list: 
+[1940.7679999999998, 1937.2479999999998, datetime.datetime(2021, 1, 4, 16, 19), 'down', 139]
+fx_list: 
+[1941.57, 1939.088, datetime.datetime(2021, 1, 4, 16, 29), 'up', 140]
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:49:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:54:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+combine k line: 2021-01-04 16:59:00
+fx_list: 
+[1940.2779999999998, 1936.5379999999998, datetime.datetime(2021, 1, 4, 16, 39), 'down', 142]
+fx_list: 
+[1944.348, 1941.315, datetime.datetime(2021, 1, 4, 17, 4), 'up', 144]
+fx_list: 
+[1934.2279999999998, 1929.2279999999998, datetime.datetime(2021, 1, 4, 17, 19), 'down', 147]
+combine k line: 2021-01-04 17:34:00
+combine k line: 2021-01-04 17:39:00
+fx_list: 
+[1940.408, 1938.75, datetime.datetime(2021, 1, 4, 17, 44), 'up', 150]
+stroke_list: 
+[1940.065, 1938.098, datetime.datetime(2021, 1, 4, 17, 49), 'down', 151]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 17:04:00
+[]
+fx_list: 
+[1940.065, 1938.098, datetime.datetime(2021, 1, 4, 17, 49), 'down', 151]
+combine k line: 2021-01-04 18:04:00
+fx_list: 
+[1943.555, 1941.965, datetime.datetime(2021, 1, 4, 18, 4), 'up', 153]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 17:04:00
+[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]
+B3-pivot
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 14, 54), 1930.435, 1932.9379999999999, 'up', 4, 9, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], [datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]
+[datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]
+buy:
+[datetime.datetime(2021, 1, 4, 18, 14), 1937.1979999999999, 'B3', datetime.datetime(2021, 1, 4, 18, 19), 11, 1, None, 'ÅÌÕû', 'Ç¿', [[[datetime.datetime(2021, 1, 4, 17, 18), datetime.datetime(2021, 1, 4, 18, 1), 1934.065, 1935.848, 'down', 1, 4, datetime.datetime(2021, 1, 4, 18, 11), 1943.555, 1929.2279999999998, [[], [], []], [[], [], []], []]]]]
+fx_list: 
+[1940.568, 1937.1979999999999, datetime.datetime(2021, 1, 4, 18, 14), 'down', 155]
+fx_list: 
+[1943.245, 1940.115, datetime.datetime(2021, 1, 4, 18, 24), 'up', 157]
+fx_list: 
+[1941.638, 1939.098, datetime.datetime(2021, 1, 4, 18, 29), 'down', 158]
+fx_list: 
+[1941.9679999999998, 1939.925, datetime.datetime(2021, 1, 4, 18, 34), 'up', 159]
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+combine k line: 2021-01-04 18:54:00
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+combine k line: 2021-01-04 18:59:00
+fx_list: 
+[1940.425, 1938.9279999999999, datetime.datetime(2021, 1, 4, 18, 44), 'down', 161]
+fx_list: 
+[1941.93, 1940.305, datetime.datetime(2021, 1, 4, 18, 59), 'up', 162]
+combine k line: 2021-01-04 19:09:00
+fx_list: 
+[1941.93, 1940.305, datetime.datetime(2021, 1, 4, 18, 59), 'up', 162]
+fx_list: 
+[1935.83, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 24), 'down', 166]
+combine k line: 2021-01-04 19:34:00
+fx_list: 
+[1935.83, 1932.5179999999998, datetime.datetime(2021, 1, 4, 19, 24), 'down', 166]
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+combine k line: 2021-01-04 19:44:00
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+combine k line: 2021-01-04 19:49:00
+fx_list: 
+[1938.0279999999998, 1935.7879999999998, datetime.datetime(2021, 1, 4, 19, 34), 'up', 167]
+fx_list: 
+[1936.308, 1933.2279999999998, datetime.datetime(2021, 1, 4, 19, 49), 'down', 168]
+combine k line: 2021-01-04 20:04:00
+stroke_list: 
+[1942.65, 1940.985, datetime.datetime(2021, 1, 4, 20, 14), 'up', 172]
+fx_list: 
+[1942.65, 1940.985, datetime.datetime(2021, 1, 4, 20, 14), 'up', 172]
+fx_list: 
+[1942.0379999999998, 1940.54, datetime.datetime(2021, 1, 4, 20, 24), 'down', 174]
+fx_list: 
+[1942.665, 1941.21, datetime.datetime(2021, 1, 4, 20, 29), 'up', 175]
+combine k line: 2021-01-04 20:39:00
+fx_list: 
+[1942.665, 1941.21, datetime.datetime(2021, 1, 4, 20, 29), 'up', 175]
+fx_list: 
+[1941.955, 1940.398, datetime.datetime(2021, 1, 4, 20, 39), 'down', 176]
+combine k line: 2021-01-04 21:04:00
+fx_list: 
+[1943.635, 1942.315, datetime.datetime(2021, 1, 4, 21, 4), 'up', 180]
+combine k line: 2021-01-04 21:14:00
+fx_list: 
+[1943.635, 1942.315, datetime.datetime(2021, 1, 4, 21, 4), 'up', 180]
+fx_list: 
+[1940.945, 1939.1979999999999, datetime.datetime(2021, 1, 4, 21, 14), 'down', 181]
+fx_list: 
+[1941.618, 1940.4979999999998, datetime.datetime(2021, 1, 4, 21, 24), 'up', 183]
+combine k line: 2021-01-04 21:34:00
+fx_list: 
+[1941.618, 1940.4979999999998, datetime.datetime(2021, 1, 4, 21, 24), 'up', 183]
+stroke_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)]]]:2021-01-04 21:04:00
+[]
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 21:44:00
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 21:49:00
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 21:54:00
+fx_list: 
+[1940.455, 1939.638, datetime.datetime(2021, 1, 4, 21, 34), 'down', 184]
+combine k line: 2021-01-04 22:04:00
+fx_list: 
+[1942.5179999999998, 1941.398, datetime.datetime(2021, 1, 4, 22, 4), 'up', 186]
+fx_list: 
+[1942.22, 1941.275, datetime.datetime(2021, 1, 4, 22, 9), 'down', 187]
+stroke_list: 
+[1942.61, 1941.2879999999998, datetime.datetime(2021, 1, 4, 22, 14), 'up', 188]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 14)]]]:2021-01-04 21:34:00
+[]
+fx_list: 
+[1942.61, 1941.2879999999998, datetime.datetime(2021, 1, 4, 22, 14), 'up', 188]
+fx_list: 
+[1941.665, 1940.82, datetime.datetime(2021, 1, 4, 22, 24), 'down', 190]
+combine k line: 2021-01-04 22:34:00
+fx_list: 
+[1941.665, 1940.82, datetime.datetime(2021, 1, 4, 22, 24), 'down', 190]
+combine k line: 2021-01-04 22:49:00
+combine k line: 2021-01-04 22:59:00
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 14)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 59)]]]:2021-01-04 21:34:00
+[]
+fx_list: 
+[1944.135, 1942.895, datetime.datetime(2021, 1, 4, 22, 59), 'up', 194]
+combine k line: 2021-01-04 23:19:00
+fx_list: 
+[1942.085, 1941.695, datetime.datetime(2021, 1, 4, 23, 19), 'down', 197]
+combine k line: 2021-01-04 23:44:00
+fx_list: 
+[1943.108, 1942.148, datetime.datetime(2021, 1, 4, 23, 44), 'up', 201]
+stroke_list: 
+[1942.7279999999998, 1942.0279999999998, datetime.datetime(2021, 1, 4, 23, 49), 'down', 202]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 19, 24), 1930.435, 1932.9379999999999, 'up', 4, 11, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], [[datetime.datetime(2021, 1, 4, 14, 54), datetime.datetime(2021, 1, 4, 15, 24)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 14)], [datetime.datetime(2021, 1, 4, 21, 34), datetime.datetime(2021, 1, 4, 22, 59)]]]:2021-01-04 22:59:00
+[]
+fx_list: 
+[1942.7279999999998, 1942.0279999999998, datetime.datetime(2021, 1, 4, 23, 49), 'down', 202]
+combine k line: 2021-01-04 23:59:00
+fx_list: 
+[1942.7279999999998, 1942.0279999999998, datetime.datetime(2021, 1, 4, 23, 49), 'down', 202]
+combine k line: 2021-01-04 01:44:00
+[[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]]
+fx_list: 
+[1914.858, 1913.905, datetime.datetime(2021, 1, 4, 1, 44), 'up', 7]
+combine k line: 2021-01-04 02:04:00
+combine k line: 2021-01-04 02:09:00
+combine k line: 2021-01-04 02:14:00
+combine k line: 2021-01-04 02:19:00
+fx_list: 
+[1910.7079999999999, 1909.455, datetime.datetime(2021, 1, 4, 2, 19), 'down', 10]
+combine k line: 2021-01-04 02:39:00
+combine k line: 2021-01-04 02:44:00
+combine k line: 2021-01-04 02:49:00
+combine k line: 2021-01-04 03:14:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+combine k line: 2021-01-04 03:24:00
+fx_list: 
+[1916.888, 1915.665, datetime.datetime(2021, 1, 4, 3, 14), 'up', 17]
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+combine k line: 2021-01-04 03:34:00
+fx_list: 
+[1914.985, 1913.7779999999998, datetime.datetime(2021, 1, 4, 3, 24), 'down', 18]
+fx_list: 
+[1915.295, 1914.204, datetime.datetime(2021, 1, 4, 3, 34), 'up', 19]
+fx_list: 
+[1915.285, 1913.505, datetime.datetime(2021, 1, 4, 3, 39), 'down', 20]
+fx_list: 
+[1918.655, 1917.0479999999998, datetime.datetime(2021, 1, 4, 3, 54), 'up', 23]
+fx_list: 
+[1916.994, 1915.394, datetime.datetime(2021, 1, 4, 4, 4), 'down', 25]
+fx_list: 
+[1919.058, 1918.165, datetime.datetime(2021, 1, 4, 4, 19), 'up', 28]
+fx_list: 
+[1918.675, 1918.0479999999998, datetime.datetime(2021, 1, 4, 4, 29), 'down', 30]
+fx_list: 
+[1918.848, 1918.1879999999999, datetime.datetime(2021, 1, 4, 4, 34), 'up', 31]
+fx_list: 
+[1918.7079999999999, 1917.9279999999999, datetime.datetime(2021, 1, 4, 4, 39), 'down', 32]
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+combine k line: 2021-01-04 05:14:00
+fx_list: 
+[1921.985, 1921.475, datetime.datetime(2021, 1, 4, 5, 4), 'up', 37]
+fx_list: 
+[1921.415, 1920.675, datetime.datetime(2021, 1, 4, 5, 14), 'down', 38]
+combine k line: 2021-01-04 05:34:00
+fx_list: 
+[1925.145, 1923.885, datetime.datetime(2021, 1, 4, 5, 44), 'up', 43]
+fx_list: 
+[1923.0079999999998, 1921.807, datetime.datetime(2021, 1, 4, 5, 54), 'down', 45]
+fx_list: 
+[1923.634, 1922.99, datetime.datetime(2021, 1, 4, 6, 4), 'up', 47]
+stroke_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.285, 1922.025, datetime.datetime(2021, 1, 4, 6, 9), 'down', 48]
+fx_list: 
+[1923.465, 1922.635, datetime.datetime(2021, 1, 4, 6, 14), 'up', 49]
+combine k line: 2021-01-04 06:34:00
+combine k line: 2021-01-04 06:39:00
+combine k line: 2021-01-04 06:44:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+combine k line: 2021-01-04 06:54:00
+fx_list: 
+[1921.944, 1920.108, datetime.datetime(2021, 1, 4, 6, 44), 'down', 52]
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+combine k line: 2021-01-04 07:09:00
+fx_list: 
+[1922.9879999999998, 1922.495, datetime.datetime(2021, 1, 4, 6, 59), 'up', 54]
+fx_list: 
+[1920.2279999999998, 1918.984, datetime.datetime(2021, 1, 4, 7, 24), 'down', 58]
+combine k line: 2021-01-04 07:39:00
+fx_list: 
+[1921.858, 1920.5379999999998, datetime.datetime(2021, 1, 4, 7, 39), 'up', 60]
+fx_list: 
+[1920.155, 1918.9879999999998, datetime.datetime(2021, 1, 4, 7, 49), 'down', 62]
+combine k line: 2021-01-04 08:09:00
+combine k line: 2021-01-04 08:29:00
+combine k line: 2021-01-04 08:34:00
+combine k line: 2021-01-04 08:39:00
+stroke_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+fx_list: 
+[1925.475, 1924.308, datetime.datetime(2021, 1, 4, 8, 39), 'up', 68]
+combine k line: 2021-01-04 08:54:00
+combine k line: 2021-01-04 09:04:00
+fx_list: 
+[1923.455, 1922.318, datetime.datetime(2021, 1, 4, 9, 4), 'down', 71]
+combine k line: 2021-01-04 09:19:00
+fx_list: 
+[1924.4679999999998, 1923.445, datetime.datetime(2021, 1, 4, 9, 19), 'up', 73]
+stroke_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:34:00
+fx_list: 
+[1924.115, 1923.415, datetime.datetime(2021, 1, 4, 9, 24), 'down', 74]
+combine k line: 2021-01-04 09:44:00
+fx_list: 
+[1925.4279999999999, 1924.254, datetime.datetime(2021, 1, 4, 9, 44), 'up', 76]
+combine k line: 2021-01-04 09:59:00
+fx_list: 
+[1923.7679999999998, 1922.858, datetime.datetime(2021, 1, 4, 9, 59), 'down', 78]
+combine k line: 2021-01-04 10:14:00
+combine k line: 2021-01-04 10:19:00
+stroke_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+fx_list: 
+[1935.085, 1932.308, datetime.datetime(2021, 1, 4, 10, 29), 'up', 82]
+combine k line: 2021-01-04 10:44:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+combine k line: 2021-01-04 11:04:00
+fx_list: 
+[1932.495, 1931.158, datetime.datetime(2021, 1, 4, 10, 54), 'down', 86]
+fx_list: 
+[1933.875, 1932.205, datetime.datetime(2021, 1, 4, 11, 9), 'up', 88]
+stroke_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]
+fx_list: 
+[1931.885, 1930.435, datetime.datetime(2021, 1, 4, 11, 19), 'down', 90]
+combine k line: 2021-01-04 11:39:00
+fx_list: 
+[1933.0179999999998, 1932.358, datetime.datetime(2021, 1, 4, 11, 39), 'up', 93]
+fx_list: 
+[1931.985, 1930.815, datetime.datetime(2021, 1, 4, 11, 49), 'down', 95]
+stroke_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1932.9379999999999, 1932.088, datetime.datetime(2021, 1, 4, 11, 59), 'up', 97]
+fx_list: 
+[1931.838, 1930.5179999999998, datetime.datetime(2021, 1, 4, 12, 9), 'down', 99]
+fx_list: 
+[1932.558, 1930.955, datetime.datetime(2021, 1, 4, 12, 14), 'up', 100]
+stroke_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+Çø¼äÌ×ÅĞ¶Ï±³³Û£º
+5·ÖÖÓ
+[datetime.datetime(2021, 1, 4, 7, 24), datetime.datetime(2021, 1, 4, 10, 29), 1922.858, 1925.475, 'down', 1, 4, datetime.datetime(2021, 1, 4, 11, 19), 1935.085, 1918.984, [[], [], []], [[], [], []], []]:2021-01-04 11:59:00
+[]
+fx_list: 
+[1930.4879999999998, 1927.785, datetime.datetime(2021, 1, 4, 12, 29), 'down', 103]
+combine k line: 2021-01-04 12:44:00
+combine k line: 2021-01-04 13:09:00
+stroke_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+pivot_list:
+[datetime.datetime(2021, 1, 4, 10, 29), datetime.datetime(2021, 1, 4, 12, 29), 1930.435, 1932.9379999999999, 'up', 4, 7, datetime.datetime(2021, 1, 4, 13, 9), 1935.085, 1927.785, [[], [], []], [[], [], []], []]
+fx_list: 
+[1936.358, 1933.635, datetime.datetime(2021, 1, 4, 13, 9), 'up', 109]
+fx_list: 
+[1934.465, 1933.585, datetime.datetime(2021, 1, 4, 13, 14), 'down', 110]
+fx_list: 
+[1935.685, 1934.368, datetime.datetime(2021, 1, 4, 13, 19), 'up', 111]
+fx_list: 
+[1935.1879999999999, 1933.305, datetime.datetime(2021, 1, 4, 13, 24), 'down', 112]
+combine k line: 2021-01-04 13:44:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]
+combine k line: 2021-01-04 13:54:00
+fx_list: 
+[1936.435, 1934.915, datetime.datetime(2021, 1, 4, 13, 44), 'up', 115]

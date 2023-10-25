@@ -123,14 +123,14 @@ class Chan_Strategy(Template):
                 self.bg_freq_map[freq].update_bar(bar) # 根据1分钟数据生成其他级别数据
             # self.put_render_event()
         self.chan_freq_map[freq].on_bar(bar)
-        return self.order
+        
 
     def buy(self, price: float, volume: float, freq: str = '', stop: bool = False, lock: bool = False):
-        self.order = self.BacktraderBuy(price = price,size = volume)
+        self.order = self.BacktraderBuy()
         return self.send_order(Direction.LONG, Offset.OPEN, price, volume, freq, stop, lock)
 
     def sell(self, price: float, volume: float, freq: str = '', stop: bool = False, lock: bool = False):
-        self.order = self.BacktraderSell(price = price,size = volume)
+        self.order = self.BacktraderSell()
         return self.send_order(Direction.SHORT, Offset.CLOSE, price, volume, freq, stop, lock)
 
     def send_order(

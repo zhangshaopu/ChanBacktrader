@@ -1,0 +1,123 @@
+<mxfile host="Electron" modified="2023-10-25T10:11:06.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="CNQDm6jpKlmDucc_KEU6" version="22.0.3" type="device" pages="3">
+  <diagram name="总流程" id="D4lVGavVbBL8QcKpnlJ6">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fR81XBiGH7gWATUse1p9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fR81XBiGH7gWATUse1p9-1" target="fR81XBiGH7gWATUse1p9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-1" value="1min级别数据 bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fR81XBiGH7gWATUse1p9-2" target="fR81XBiGH7gWATUse1p9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-2" value="创建多个级别数据生成器" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fR81XBiGH7gWATUse1p9-4" target="fR81XBiGH7gWATUse1p9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-4" value="on_bar(bar)函数处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fR81XBiGH7gWATUse1p9-6" target="fR81XBiGH7gWATUse1p9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-6" value="在某种条件下进行共振处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fR81XBiGH7gWATUse1p9-8" target="fR81XBiGH7gWATUse1p9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-8" value="k线合并处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBZmBPHFNyT6qS1-Z3sD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fR81XBiGH7gWATUse1p9-10" target="rBZmBPHFNyT6qS1-Z3sD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fR81XBiGH7gWATUse1p9-10" value="对包含和非包含处理后的k线判断分型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBZmBPHFNyT6qS1-Z3sD-1" value="画笔" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X8XkHbhlOuoc9n7nK4xv" name="分型处理流程">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LObNqrJJ1orasQ6gYeNy-1" target="LObNqrJJ1orasQ6gYeNy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-1" value="输入：chan_k_list&amp;nbsp;&lt;br&gt;存储包含处理后的k线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-8" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LObNqrJJ1orasQ6gYeNy-5" target="LObNqrJJ1orasQ6gYeNy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-5" value="len(chan_k_list) &amp;gt; 2" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="260" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LObNqrJJ1orasQ6gYeNy-7" target="LObNqrJJ1orasQ6gYeNy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-7" value="根据当前k线，前一根，前前一根，最高价和最低价判断顶底分型" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LObNqrJJ1orasQ6gYeNy-10" target="LObNqrJJ1orasQ6gYeNy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-10" value="将满足条件的顶底分型中心k线数据放入fx_list" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LObNqrJJ1orasQ6gYeNy-12" value="如果分型成功：进行画笔处理" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Uln9kHIc0y3DEAzO_zhO" name="画笔处理流程">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZCK70Fllgl59X71CC4Vq-1" target="ZCK70Fllgl59X71CC4Vq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-1" value="&lt;br&gt;新加入的分型中心k线数据&lt;br&gt;输入：fx_list[-1]&lt;br&gt;&lt;span style=&quot;background-color: rgb(31, 31, 31); color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZCK70Fllgl59X71CC4Vq-4" target="ZCK70Fllgl59X71CC4Vq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-8" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZCK70Fllgl59X71CC4Vq-7">
+          <mxGeometry x="-0.2578" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZCK70Fllgl59X71CC4Vq-4" target="ZCK70Fllgl59X71CC4Vq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-11" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZCK70Fllgl59X71CC4Vq-10">
+          <mxGeometry x="-0.2282" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-4" value="如果当前len（stroke_list） &amp;lt; 1&amp;nbsp;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="270" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCK70Fllgl59X71CC4Vq-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

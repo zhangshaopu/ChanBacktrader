@@ -1120,12 +1120,12 @@ class Chan_Class:
                 ChanLog.log(self.freq, self.symbol, data)
                 self.buy_list.append(data)
                 if self.buy:
-                    return self.buy(self.k_list[-1].close_price, 100, self.freq)
+                    return self.buy(self.k_list[-1].close_price, 10, self.freq)
             else:
                 ChanLog.log(self.freq, self.symbol, 'sell:')
                 ChanLog.log(self.freq, self.symbol, data)
                 self.sell_list.append(data)
                 if self.sell:
-                    return self.sell(self.k_list[-1].close_price, 100, self.freq)
+                    return self.sell(self.k_list[-1].close_price, 10, self.freq)
         else:
             pass
